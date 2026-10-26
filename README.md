@@ -1,4 +1,4 @@
-# DSA — Heart Pattern ❤️
+# DSA — Heart Pattern 
 
 A focused Python implementation that **prints a heart made of asterisks** on a 6 × 7 grid using **two nested loops and four coordinate rules**. Clean, minimal, and correct — this program is the entry point to understanding **pattern printing**, the row/column (`i`, `j`) view of a picture, and the difference between **drawing an outline with equalities** and **filling a shape with inequalities**. The same idea — _for every cell `(i, j)`, decide whether to print a star or a space_ — sits behind every star, pyramid, and diamond pattern.
 
